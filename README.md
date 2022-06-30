@@ -1,2 +1,2 @@
 # offline-site
-The site that displays if TronMC is offline.
+I forked this so I don't have to pay for a pro plan on Vercel lol
