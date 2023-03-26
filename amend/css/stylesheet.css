@@ -64,6 +64,11 @@ html {
 a:hover {
   /*have the fill color change to the hover color*/
   background-color: #8f00c5 !important;
+  color: white !important;
+}
+a {
+  /*have the fill color change to the hover color*/
+  color: #8f00c5 !important;
 }
 .incident-context .context{    
   flex: 1 !important;
